@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1258-article-views-i) |
+| [1541-top-travellers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1827-invalid-tweets) |
