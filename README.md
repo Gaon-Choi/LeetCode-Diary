@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0619-biggest-single-number) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1908-recyclable-and-low-fat-products) |
+| [2110-employees-with-missing-information](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
