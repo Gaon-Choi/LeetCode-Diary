@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
