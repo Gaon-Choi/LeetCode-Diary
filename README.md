@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1908-recyclable-and-low-fat-products) |
