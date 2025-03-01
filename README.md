@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
