@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
+| [2383-add-two-integers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2383-add-two-integers) |
 ## Linked List
 |  |
 | ------- |
