@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2491-smallest-even-multiple) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
