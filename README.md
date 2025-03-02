@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0225-implement-stack-using-queues) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
