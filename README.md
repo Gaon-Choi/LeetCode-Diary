@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0342-power-of-four) |
 | [1236-n-th-tribonacci-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1236-n-th-tribonacci-number) |
 | [2383-add-two-integers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2491-smallest-even-multiple) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
