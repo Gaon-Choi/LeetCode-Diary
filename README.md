@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0326-power-of-three) |
