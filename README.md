@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0118-pascals-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
