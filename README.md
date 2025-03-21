@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
