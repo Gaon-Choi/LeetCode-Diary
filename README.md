@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0125-valid-palindrome) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0225-implement-stack-using-queues) |
