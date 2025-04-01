@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1942-primary-department-for-each-employee) |
+| [2041-the-latest-login-in-2020](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2110-employees-with-missing-information) |
