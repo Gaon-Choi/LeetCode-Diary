@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
