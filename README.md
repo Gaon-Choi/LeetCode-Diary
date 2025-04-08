@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 ## Number Theory
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
