@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0118-pascals-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
