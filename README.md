@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1942-primary-department-for-each-employee) |
+| [2024-calculate-special-bonus](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2087-confirmation-rate) |
