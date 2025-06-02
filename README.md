@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0070-climbing-stairs) |
@@ -177,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0206-reverse-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0326-power-of-three) |
