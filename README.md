@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-odd-and-even-transactions](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3530-odd-and-even-transactions) |
 | [3782-find-valid-emails](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3816-dna-pattern-recognition) |
+| [3910-find-books-with-no-available-copies](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3910-find-books-with-no-available-copies) |
 ## Array
 |  |
 | ------- |
