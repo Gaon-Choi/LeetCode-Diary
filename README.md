@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
