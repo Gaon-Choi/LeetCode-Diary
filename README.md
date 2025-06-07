@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0344-reverse-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0208-implement-trie-prefix-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
