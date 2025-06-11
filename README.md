@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1706-min-cost-to-connect-all-points) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0782-jewels-and-stones) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
 | [2406-decode-the-message](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2406-decode-the-message) |
