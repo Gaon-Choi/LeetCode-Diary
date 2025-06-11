@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1706-min-cost-to-connect-all-points) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 | [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2406-decode-the-message](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 ## String
