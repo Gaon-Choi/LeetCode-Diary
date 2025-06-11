@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
+| [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
+| [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1706-min-cost-to-connect-all-points) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
