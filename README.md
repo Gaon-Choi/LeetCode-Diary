@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1706-min-cost-to-connect-all-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
@@ -399,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
