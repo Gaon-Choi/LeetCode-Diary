@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
+| [2048-build-array-from-permutation](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
