@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1706-min-cost-to-connect-all-points) |
+| [1916-find-center-of-star-graph](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1916-find-center-of-star-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
