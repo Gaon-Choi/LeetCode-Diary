@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2401-count-asterisks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
