@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
+| [1708-design-parking-system](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0232-implement-queue-using-stacks) |
+| [1708-design-parking-system](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1708-design-parking-system) |
 | [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
 ## Enumeration
 |  |
