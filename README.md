@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2556-convert-the-temperature) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Linked List
