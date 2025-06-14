@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
+| [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
+| [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1791-richest-customer-wealth) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
