@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1708-design-parking-system) |
 | [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
