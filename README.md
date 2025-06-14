@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
+| [3447-clear-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1078-remove-outermost-parentheses) |
+| [3447-clear-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
