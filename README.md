@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3429-special-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2406-decode-the-message](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
