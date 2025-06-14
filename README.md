@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1078-remove-outermost-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3447-clear-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -455,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0783-search-in-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
