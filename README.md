@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
+| [3055-maximum-odd-binary-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3447-clear-digits) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3055-maximum-odd-binary-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1448-maximum-69-number) |
+| [3055-maximum-odd-binary-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3055-maximum-odd-binary-number) |
 ## Graph
 |  |
 | ------- |
