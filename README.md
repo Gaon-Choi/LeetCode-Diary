@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2048-build-array-from-permutation) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
+| [1791-richest-customer-wealth](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1791-richest-customer-wealth) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
