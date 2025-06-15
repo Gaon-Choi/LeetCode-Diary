@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
 | [0822-unique-morse-code-words](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0822-unique-morse-code-words) |
