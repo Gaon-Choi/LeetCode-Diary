@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2406-decode-the-message](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2406-decode-the-message) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
 ## Binary Search Tree
 |  |
 | ------- |
