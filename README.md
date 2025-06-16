@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2556-convert-the-temperature) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2812-find-the-maximum-achievable-number) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1448-maximum-69-number) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3055-maximum-odd-binary-number) |
 ## Graph
 |  |
