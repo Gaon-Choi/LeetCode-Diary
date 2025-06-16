@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0783-search-in-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0783-search-in-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2384-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
 | ------- |
