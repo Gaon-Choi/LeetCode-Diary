@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0059-spiral-matrix-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0074-search-a-2d-matrix) |
