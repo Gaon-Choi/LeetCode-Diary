@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0822-unique-morse-code-words) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0822-unique-morse-code-words) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1786-count-the-number-of-consistent-strings) |
