@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1970-sorting-the-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2401-count-asterisks) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3447-clear-digits) |
 ## Design
 |  |
