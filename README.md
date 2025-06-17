@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1944-truncate-sentence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2058-concatenation-of-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2556-convert-the-temperature) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String Matching
 |  |
 | ------- |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Interactive
 |  |
 | ------- |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
 ## Binary Search Tree
 |  |
@@ -524,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
