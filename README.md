@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3778-transform-array-by-parity) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Linked List
 |  |
 | ------- |
