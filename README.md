@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3446-find-the-number-of-good-pairs-i) |
