@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2442-number-of-arithmetic-triplets) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2502-sort-the-people) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2714-left-and-right-sum-differences) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1791-richest-customer-wealth) |
 | [2411-spiral-matrix-iv](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2411-spiral-matrix-iv) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
