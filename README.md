@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1894-merge-strings-alternately) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0179-largest-number) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1448-maximum-69-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/3055-maximum-odd-binary-number) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0383-ransom-note) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1786-count-the-number-of-consistent-strings) |
