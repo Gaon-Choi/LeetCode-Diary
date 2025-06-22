@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 | [0695-max-area-of-island](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0695-max-area-of-island) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1970-sorting-the-sentence) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0822-unique-morse-code-words) |
@@ -472,11 +475,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
@@ -531,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/1635-number-of-good-pairs) |
@@ -560,4 +566,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gaon-Choi/LeetCode-Diary/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
